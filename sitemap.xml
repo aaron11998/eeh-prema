@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://aaron11998.github.io/eeh-prema/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/hLGP2XOOOhA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>EEH PREMA — Official Telugu Music Video</video:title>
+      <video:description>A Telugu love song that stays with you — official video from ATM Music.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/hLGP2XOOOhA</video:player_loc>
+    </video:video>
+  </url>
+</urlset>
